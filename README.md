@@ -4,7 +4,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-15.2.x-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.x-38B2AC)
-![Firecrawl API](https://img.shields.io/badge/Firecrawl%20API-2023-orange)
+![Firecrawl API](https://img.shields.io/badge/Firecrawl%20SDK-v1.6.0-orange)
 
 ## Overview
 
